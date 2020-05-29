@@ -17,5 +17,5 @@ pip install -e .
 - numpy
 - pillow
 
-最后运行mian.py即可进行训练
+最后运行main.py即可进行训练
 
